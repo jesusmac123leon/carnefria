@@ -15,7 +15,7 @@
 
   <!-- 8thWall Web - Replace the app key here with your own app key -->
   <script
-    src="//apps.8thwall.com/xrweb?appKey=bZ4TQypanCnqgAVpQlVGhHnVt00vKBtRd76m6L8cdFPonTMEVJZYN8H3ACMuHqdDFBHlu2"></script>
+    src="//apps.8thwall.com/xrweb?appKey=aV9tNU1SNlXs9zNcgtqraFkZpupsJxzgjPU9gSvkEv4IzrwaUC3TaHv2JAv8YjSGDuNEiJ"></script>
 
   <!-- client code -->
   <script src="index.js"></script>
@@ -34,7 +34,7 @@
     xrextras-runtime-error>
 
     <a-assets>
-      <a-asset-item id="frame-glb" src="costillas.glb"></a-asset-item>
+      <a-asset-item id="frame-glb" src="carne fria.glb"></a-asset-item>
     </a-assets>
 
     <a-camera position="0 4 10"> </a-camera>
